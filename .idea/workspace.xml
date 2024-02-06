@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="571459f6-e93b-4c9a-a8f0-41094c18426b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data structures and algorithms" beforeDir="false" afterPath="$PROJECT_DIR$/Data structures and algorithms" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures and algorithms/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures and algorithms/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures and algorithms/.idea/libraries/junit_jupiter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures and algorithms/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures and algorithms/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures and algorithms/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures and algorithms/Data structures and algorithms.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Data structures and algorithms/src/main/datastructures/linkedlist/LinkedListTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/louis/source/repos/java-data-structures-and-algorithms",
+    "last_opened_file_path": "C:/Users/louis/source/repos/java-data-structures-and-algorithms/Data structures and algorithms",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -77,5 +85,16 @@
       <updated>1706820828407</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Data structures and algorithms/src/testing/datastructures/linkedlist/LinkedListTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
