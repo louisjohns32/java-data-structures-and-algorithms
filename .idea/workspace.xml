@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="571459f6-e93b-4c9a-a8f0-41094c18426b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data structures and algorithms" beforeDir="false" afterPath="$PROJECT_DIR$/Data structures and algorithms" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data structures and algorithms/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data structures and algorithms/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data structures and algorithms/.idea/libraries/junit_jupiter.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data structures and algorithms/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data structures and algorithms/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data structures and algorithms/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data structures and algorithms/Data structures and algorithms.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data structures and algorithms/src/main/datastructures/linkedlist/LinkedListTest.java" beforeDir="false" />
+    <list default="true" id="9e5a37fb-d127-471c-82fa-a73792803cb9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datastructures/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/linkedlist/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datastructures/linkedlist/LinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testing/datastructures/linkedlist/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testing/datastructures/linkedlist/LinkedListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,36 +18,54 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Data structures and algorithms" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
+  &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2bmWeEIc7g8QZbcdG1MxzndsNyO" />
+  <component name="ProjectId" id="2brm5dx1IFf4gKicBJWr7fLpsaG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.LinkedListTest.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/louis/source/repos/java-data-structures-and-algorithms/Data structures and algorithms",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.LinkedListTest.appendToEmptyList.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.appendToList1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.binaryToDecimalFourBitValueFive.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.binaryToDecimalFourBitValueThirtyOne.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.getKthNodeFromEndEmptyList.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.getKthNodeFromEndListLengthOne.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.getKthNodeFromEndListLengthOneInvalidIndex.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.getKthNodeFromEndListLengthThree.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.getMiddleNodeEmptyList.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.getMiddleNodeLengthOne.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.getMiddleNodeLengthSix.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.getMiddleNodeLengthThree.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.hasLoopReturnsFalseWhenEmpty.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.prependToList1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.reverseLengthOne.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.reverseLengthTen.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.reverseLengthTwo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LinkedListTest.reverseLengthZero.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/louis/source/repos/chess-coursework_s87208lj&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="JUnit.LinkedListTest">
     <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-data-structures-and-algorithms" />
+      <module name="Data structures and algorithms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="testing.datastructures.linkedlist.*" />
@@ -62,9 +79,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinkedListTest.binaryToDecimalFourBitValueFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data structures and algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.datastructures.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing.datastructures.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="testing.datastructures.linkedlist.LinkedListTest" />
+      <option name="METHOD_NAME" value="binaryToDecimalFourBitValueFive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest.binaryToDecimalFourBitValueThirtyOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data structures and algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.datastructures.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing.datastructures.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="testing.datastructures.linkedlist.LinkedListTest" />
+      <option name="METHOD_NAME" value="binaryToDecimalFourBitValueThirtyOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest.getKthNodeFromEndListLengthOneInvalidIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data structures and algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.datastructures.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing.datastructures.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="testing.datastructures.linkedlist.LinkedListTest" />
+      <option name="METHOD_NAME" value="getKthNodeFromEndListLengthOneInvalidIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest.getKthNodeFromEndListLengthThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data structures and algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.datastructures.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing.datastructures.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="testing.datastructures.linkedlist.LinkedListTest" />
+      <option name="METHOD_NAME" value="getKthNodeFromEndListLengthThree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.LinkedListTest" />
+        <item itemvalue="JUnit.LinkedListTest.binaryToDecimalFourBitValueThirtyOne" />
+        <item itemvalue="JUnit.LinkedListTest.binaryToDecimalFourBitValueFive" />
+        <item itemvalue="JUnit.LinkedListTest.getKthNodeFromEndListLengthThree" />
+        <item itemvalue="JUnit.LinkedListTest.getKthNodeFromEndListLengthOneInvalidIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -78,21 +163,25 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="571459f6-e93b-4c9a-a8f0-41094c18426b" name="Changes" comment="" />
-      <created>1706820828407</created>
+      <changelist id="9e5a37fb-d127-471c-82fa-a73792803cb9" name="Changes" comment="" />
+      <created>1706981389492</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1706820828407</updated>
+      <updated>1706981389492</updated>
     </task>
     <servers />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Data structures and algorithms/src/testing/datastructures/linkedlist/LinkedListTest.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="2" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/testing/datastructures/linkedlist/LinkedListTest.java</url>
+          <line>227</line>
+          <properties class="testing.datastructures.linkedlist.LinkedListTest" method="getKthNodeFromEndListLengthOne">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
