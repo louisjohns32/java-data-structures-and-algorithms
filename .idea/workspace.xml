@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e5a37fb-d127-471c-82fa-a73792803cb9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/datastructures/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/linkedlist/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/datastructures/linkedlist/LinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datastructures/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/stack/Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/testing/datastructures/linkedlist/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testing/datastructures/linkedlist/LinkedListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,9 +59,9 @@
     &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/louis/source/repos/chess-coursework_s87208lj&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/louis/source/repos/java-data-structures-and-algorithms&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -176,7 +180,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/testing/datastructures/linkedlist/LinkedListTest.java</url>
-          <line>227</line>
+          <line>229</line>
           <properties class="testing.datastructures.linkedlist.LinkedListTest" method="getKthNodeFromEndListLengthOne">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
